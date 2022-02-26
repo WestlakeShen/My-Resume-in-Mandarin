@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h1>沈佳泳</h1>
+      <p><b>Undergraduate </b></p>
+      <p><b>College of Plant Protection,Nanjing Agricultural University</b></p>
+      <p><b>Email：12119113@njau.edu.cn</b></p>
+      <p><b>Phonenumber：+86 17767128839</b></p>
+      <p><b>Address：Nanjing Agricultural University, Xuanwu District, Nanjing, Jiangsu Province</b></p>
+    </td>
+    <td width="25%">
+      <img src="/Profile_picture.JPG" width="75%">
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/WestlakeShen/My-Resume-in-Mandarin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+2019.9 - Present                              Nanjing Agricultural University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2021.1 - 2021.2 UCLA Extension Data Science Fundamentals and City University of Macau（Jiangsu Provincice Government Scholarship Program of Overseas Studies for Undergraduates）
 
-### Markdown
+2021.8 - 2021.8   KNU Online Summer School
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2021.7- 2021.7 International Education and Cross-cultural Communication 
 
-```markdown
-Syntax highlighted code block
+Major: Plant Protection&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  GPA: 4/109&emsp;&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;    English:  CET-6 
 
-# Header 1
-## Header 2
-### Header 3
+Elective courses: Bioinformatics(97) Molecular Biology of Plant Pest(96)  Agricultural Information Technology(95) Python Progranming Il(91)
 
-- Bulleted
-- List
+## Academic Research Experience
+### Lab Experiences
+2020.6 - 2021.6 &emsp;&emsp;  Lab of Biopesticide and Green Plant Protection laboratory &emsp;(Supervisor: Guo Jianhua)
 
-1. Numbered
-2. List
+National Student Research Training Program  "Organic Planting System"  &emsp;(Research Funds:20,000 yuan)
 
-**Bold** and _Italic_ and `Code` text
+2020.9 - Present &emsp;&emsp; Lab of blight genomics &emsp; (Supervisor: Dong Suomeng (Changjiang Scholars Program))
+RB记得放一下
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Research Achievements
+1.python &emsp; numpy &emsp; panda &emsp;tkinter &emsp; biopython
 
-### Jekyll Themes
+2.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WestlakeShen/My-Resume-in-Mandarin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3.
 
-### Support or Contact
+4.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### Lecture Experiences
+
+
+## My awards since 2019
+
+2021.10 National Scholarship
+
+## My stories with Nanjing Agriculural Unviersity
+
+## My stories with Westlake University
+
+## My Photos
